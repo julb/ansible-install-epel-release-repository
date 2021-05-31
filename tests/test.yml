@@ -1,0 +1,4 @@
+---
+- hosts: all
+  roles:
+    - ansible-install-epel-release-repository

@@ -1,0 +1,6 @@
+---
+epel_release_7_rpm_url: https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+epel_release_7_gpg_key_url: https://dl.fedoraproject.org/pub/epel/RPM-GPG-KEY-EPEL-7
+
+epel_release_8_rpm_url: https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+epel_release_8_gpg_key_url: https://dl.fedoraproject.org/pub/epel/RPM-GPG-KEY-EPEL-8
